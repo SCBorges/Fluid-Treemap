@@ -5,3 +5,7 @@ There has been significant work on interactive systems for analyzing hierarchica
 ### Example ###
 
 An [example](https://scborges.github.io/Fluid-Treemap/) is available. Currently, drag comparisons work by dragging a node across other nodes. To enable shearing, hold the mouse until the parent node becomes padded. To shear larger regions, hold the mouse until the region is padded. Then drag to shear.
+
+### Video ###
+
+A short [video](https://scborges.github.io/Fluid-Treemap/video.mp4) is also available.
